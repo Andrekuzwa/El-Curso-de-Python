@@ -15,10 +15,59 @@ micadena = "No te preocupes de los 'apostofres' usando comillas dobles"
 
 
 **Indexación de cadenas**
-![](../../El-Curso-de-Python/Presentacion/2.%20Conceptos%20basicos%20de%20Python/string_indexes.png)
+![](../../El-Curso-de-Python/Presentacion/2.%20Conceptos%20basicos%20de%20Python/string_indexes.png)  
+
+tutaj postawowe operacje w interpreterze(word[2:] itd...)
+
+
 
 **Almacenar valores en variables**  
  spam = 42   
 Esta declaracion significa que spam almanece numero integrale 42.
  
 ![](../../El-Curso-de-Python/Presentacion/2.%20Conceptos%20basicos%20de%20Python/variable_box.png)
+
+Una variable se inicializa la primera vez que se almacena un valor en ella. Cuando se asigna una variable a un nuevo valor, se olvida el valor antiguo.
+
+spam = 'Hello'  
+spam = 'Goodbye'  
+![](../../El-Curso-de-Python/Presentacion/2.%20Conceptos%20basicos%20de%20Python/variable_box_2.png)
+
+**Funciones basicos de Python**  
+
+**Funcion print()**  
+La función print() muestra el valor de cadena dentro de los paréntesis en la pantalla.  
+Cuando Python ejecuta esta línea, se dice que Python está llamando a la función print() y que el valor de cadena se pasa a la función. Un valor que se pasa a una llamada de función es un argumento.
+
+**Funcion input()**  
+La función input() espera a que el usuario escriba texto en el teclado y pulse ENTER.
+
+**Funcion len()**  
+Puede pasar la función len() un valor de cadena (o una variable que contenga una cadena) y la función se evalúa como el valor entero del número de caracteres de esa cadena.  
+
+**Funciones str(),int(),float()**  
+La función str() se puede pasar un valor entero y se evaluará como una versión de valor de cadena de la misma.  
+Las funciones str(), int() y float() se evaluarán como las formas string, integer y floating del valor que pase, respectivamente  
+(tu bardziej prezentacja w intepreterze)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
