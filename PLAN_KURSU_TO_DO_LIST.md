@@ -7,20 +7,19 @@
 	2.1 Tipos de data(numeros-int,float,cadenas-string)  
 	2.2 Almacenar valores en variables  
 	2.3 Funciones basicos(print(),input(),len()...)  
-3. Operadores booleanos (IN PROCESS)
-4. Condicionales
-5. Bucles(loops)
-6. Funciones
-7. Listas
-8. Diccionarios
-9. Modificando cadenas
-10. Compresiones de listas
-11. Módulos y paquetes
-12. Módulos adicionales  
-	12.1 SciPy?  
-	12.2 NumPy?  
-	12.3 Matplotlib?  
-13. Primer proyecto con Python
+3. Operadores booleanos y condicionales (IN PROCESS)(wymyslic jakies cwiczonka)
+4. Bucles(loops)
+5. Funciones
+6. Listas
+7. Diccionarios
+8. Modificando cadenas
+9. Compresiones de listas
+10. Módulos y paquetes
+11. Módulos adicionales  
+	11.1 SciPy?  
+	11.2 NumPy?  
+	11.3 Matplotlib?  
+12. Primer proyecto con Python
 
 
 
