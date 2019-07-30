@@ -1,13 +1,13 @@
 ﻿Curso de Python
 
 1. Introducción  
-1.2 Que es Python? Uso de Python. DONE  
-1.3 Instalación de PyCharm (zostawiam na koniec)(instrukcja instalacji)  
-2. Conceptos básicos de Python (IN PROCESS)  
+1.2 Que es Python? Uso de Python. (DONE)  
+1.3 Instalación de PyCharm. (IN PROCESS)
+2. Conceptos básicos de Python (DONE)  
 	2.1 Tipos de data(numeros-int,float,cadenas-string)  
 	2.2 Almacenar valores en variables  
 	2.3 Funciones basicos(print(),input(),len()...)  
-3. Operadores booleanos
+3. Operadores booleanos (IN PROCESS)
 4. Condicionales
 5. Bucles(loops)
 6. Funciones
