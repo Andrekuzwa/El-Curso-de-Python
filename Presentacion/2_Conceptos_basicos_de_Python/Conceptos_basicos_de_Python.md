@@ -60,6 +60,12 @@ La función str() se puede pasar un valor entero y se evaluará como una versió
 Las funciones str(), int() y float() se evaluarán como las formas string, integer y floating del valor que pase, respectivamente  
 (tu bardziej prezentacja w intepreterze)
 
+Ejercisios:
+1. Escriba un programa que solicite radio(r) y anote el área(π r^2), el circuito(2πr),el diámetro(2r) de un círculo.
+
+2. Escriba un programa que solicite datos personales: nombre, apellidos, edad, nacionalidad y los derechos abajo en una frase.
+"Me llamo [nombre][apellidos], tengo [edad] anos y soy de [nacionalidad]"
+
 
 
 
