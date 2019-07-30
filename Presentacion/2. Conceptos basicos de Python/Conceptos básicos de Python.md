@@ -1,11 +1,15 @@
 ﻿1.**Numeros** -  Python soporta dos tipos de números - integrales y numeros de punto flotante. (Tambien soporta números complejos pero por ahora vamos a evitarlos).  
  El intérprete actúa como una calculadora simple: puede escribir una expresión en él y escribirá el valor. 
  
- ![](../../El-Curso-de-Python/Presentacion/2.%20Conceptos%20basicos%20de%20Python/data_types.png)
+ 
+![](data_types.png)
+
  
 Los números enteros (por ejemplo, 2, 4, 20) tienen tipo int, los que tienen una parte fraccionaria (por ejemplo, 5.0, 1.6) tienen tipo float.
 
-![](../../El-Curso-de-Python/Presentacion/2.%20Conceptos%20basicos%20de%20Python/arythemetical_operators.png)
+
+![](arythemetical_operators.png)
+
 
 **Cadenas**  
 Las cadenas están definidas con comillas sencillas o compuestas  .
@@ -15,7 +19,9 @@ micadena = "No te preocupes de los 'apostofres' usando comillas dobles"
 
 
 **Indexación de cadenas**
-![](../../El-Curso-de-Python/Presentacion/2.%20Conceptos%20basicos%20de%20Python/string_indexes.png)  
+
+![](string_indexes.png)
+ 
 
 tutaj postawowe operacje w interpreterze(word[2:] itd...)
 
@@ -25,13 +31,17 @@ tutaj postawowe operacje w interpreterze(word[2:] itd...)
  spam = 42   
 Esta declaracion significa que spam almanece numero integrale 42.
  
-![](../../El-Curso-de-Python/Presentacion/2.%20Conceptos%20basicos%20de%20Python/variable_box.png)
+
+![](variable_box.png)
+
 
 Una variable se inicializa la primera vez que se almacena un valor en ella. Cuando se asigna una variable a un nuevo valor, se olvida el valor antiguo.
 
 spam = 'Hello'  
 spam = 'Goodbye'  
-![](../../El-Curso-de-Python/Presentacion/2.%20Conceptos%20basicos%20de%20Python/variable_box_2.png)
+
+![](variable_box_2.png)
+
 
 **Funciones basicos de Python**  
 
