@@ -40,7 +40,8 @@ Male zadanie 'przy tablicy' napiszemy kawalek kodu, a ktos bedzie musial narysow
 
 Ejercisios:
 1. Escriba un programa que diga si el número es impar o par.
-
+2. Escriba un programa que diga si una persona es adulta.
+3. Combine ejercicio uno y dos. Escriba un programa que diga si la persona es adulta y si la edad es un numero par. 
 
 
 
