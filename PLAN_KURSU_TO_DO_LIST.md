@@ -8,7 +8,7 @@
 	2.2 Almacenar valores en variables  
 	2.3 Funciones basicos(print(),input(),len()...)  
 3. Operadores booleanos y condicionales (DONE)
-4. Bucles(loops)
+4. Bucles(loops)(IN PROCESS)
 5. Funciones
 6. Listas
 7. Diccionarios
