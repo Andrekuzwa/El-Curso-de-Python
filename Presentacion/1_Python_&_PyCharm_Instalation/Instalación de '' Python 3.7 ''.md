@@ -88,23 +88,27 @@ Necesitamos IDE (Integrated Development Environment)- Entorno de desarrollo inte
 
 ![](203_first_project.png)
 
-**4. Ahora podemos crear el primer script**
+**4.No instalar ''IdeaVim'' y ''Markdown''**
+
+![](209_first_project.png)
+
+**5. Ahora podemos crear el primer script**
 
 ![](204_first_project.png)
 
-**5. Haga clic derecho en Project Folder => New => Python File**
+**6. Haga clic derecho en Project Folder => New => Python File**
 
 ![](205_first_project.png)
 
-**6. Nombre del script, por ejemplo, ''Hello World''**
+**7. Nombre del script, por ejemplo, ''Hello World''**
 
 ![](206_first_project.png)
 
-**7. Escribe la primera línea de código ''print('Hello World!'**
+**8. Escribe la primera línea de código ''print('Hello World!'**
 
 ![](207_first_project.png)
 
-**8. Ejecute su primer script y vea el resultado**
+**9. Ejecute su primer script y vea el resultado**
 
 ![](208_first_project.png)
 
