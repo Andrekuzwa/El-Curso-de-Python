@@ -10,7 +10,7 @@
 3. Operadores booleanos y condicionales (DONE)
 4. Bucles(loops)(DONE)
 5. Funciones(IN PROCESS)
-6. Listas
+6. Listas(in PROCESS)
 7. Diccionarios
 8. Modificando cadenas
 9. Compresiones de listas
