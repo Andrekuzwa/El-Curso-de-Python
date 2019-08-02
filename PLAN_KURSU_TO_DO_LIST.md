@@ -2,16 +2,16 @@
 
 1. Introducción  
 1.2 Que es Python? Uso de Python. (DONE)  
-1.3 Instalación de PyCharm. (IN PROCESS)
+1.3 Instalación de PyCharm. (DONE)
 2. Conceptos básicos de Python (DONE)  
 	2.1 Tipos de data(numeros-int,float,cadenas-string)  
 	2.2 Almacenar valores en variables  
 	2.3 Funciones basicos(print(),input(),len()...)  
 3. Operadores booleanos y condicionales (DONE)
 4. Bucles(loops)(DONE)
-5. Funciones(IN PROCESS)
+5. Funciones(DONE)
 6. Listas
-7. Diccionarios
+7. Diccionarios(IN PROCESS)
 8. Modificando cadenas
 9. Compresiones de listas
 10. Módulos y paquetes
