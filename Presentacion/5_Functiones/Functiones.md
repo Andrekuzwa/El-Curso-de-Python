@@ -16,6 +16,12 @@ Un propósito principal de las funciones es agrupar código que se ejecuta varia
 
 La desduplicación hace que sus programas sean más cortos, fáciles de leer y más fáciles de actualizar.
 
+**Declaración de "Return" (retorno)**
+
+Los cuerpos de función pueden contener una o más declaraciones de retorno. Se pueden ubicar en cualquier parte del cuerpo de la función. Una declaración return finaliza la ejecución de la llamada a la función y "devuelve" el resultado, es decir, el valor de la expresión que sigue a la palabra clave return. Si la sentencia return no tiene una expresión, se devuelve el valor especial None.
+
+![](11_Fun.png)
+
 **Declaraciones "def" con parámetros**
 
 También puede desafiar sus propias funciones que aceptan argumentos
