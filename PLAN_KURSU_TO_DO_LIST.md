@@ -9,10 +9,10 @@
 	2.3 Funciones basicos(print(),input(),len()...)  
 3. Operadores booleanos y condicionales (DONE)
 4. Bucles(loops)(DONE)
-5. Funciones(IN PROCESS)
-6. Listas(in PROCESS)
+5. Funciones(DONE)
+6. Listas(DONE)
 7. Diccionarios(IN PROCESS)
-8. Modificando cadenas
+8. Manipulando cadenas(IN PROCESS)
 9. Compresiones de listas
 10. Módulos y paquetes
 11. Módulos adicionales  

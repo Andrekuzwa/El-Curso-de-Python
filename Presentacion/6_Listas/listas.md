@@ -1,7 +1,7 @@
 ﻿**Listas**  
 Una lista es un valor que contiene varios valores en una secuencia ordenada.  
 Indexamos listas al igual que las cadenas
-
+![](index_lista.png)
 zabawa w interpreterze  
 [1,2,3]  
 ['pan','agua','jamon']  
@@ -111,30 +111,34 @@ list(('perro','gato',8))
 Las variables almacenan cadenas y valores enteros.  
 
 spam = 42  
-cheese = spam  
+queso = spam  
 spam = 100
 
 Pero las listas no funcionan así. Cuando se asigna una lista a una variable, en realidad se asigna una referencia de lista a la variable. Una referencia es un valor que apunta a una particion de datos.
+
 
 spam = [0,1,2,3,4,5]  
 queso = spam  
 spam[1] = 'Hola'  
 spam
-cheese
+queso
+
+![](referencias.png)
 
 Si no queremos trabajar en una determinada lista, podemos copiarla usando el método copy(). De esta manera obtenemos una referencia a otra lista pero con los mismos valores.
 
-import copy 
-spam = [0,1,2,3,4,5] 
-cheese = copy.copy(spam)
-spam[1] = 'Hola'
-spam
-cheese
+import copy   
+spam = [0,1,2,3,4,5]   
+cheese = copy.copy(spam)  
+spam[1] = 'Hola'  
+spam  
+cheese  
 
 Ejercicios
 1. Escriba una función que tome un valor de lista como argumento y devuelva una cadena con todos los elementos separados por una coma y un espacio. La función debe funcionar con cualquier lista.
-2. Escriba una función que tome dos listas como argumentos y devuelva una lista de valores comunes de esas listas.
-3. 
+2. Escriba una función que tome dos listas como argumentos y devuelva una lista de valores comunes de esas listas sin duplicados.
+3. Escriba una función que tome una lista de cadenas como argumento y devuelva una lista de cadenas sin números.
+
 
 
 
