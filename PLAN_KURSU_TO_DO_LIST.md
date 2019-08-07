@@ -11,10 +11,10 @@
 4. Bucles(loops)(DONE)
 5. Funciones(DONE)
 6. Listas(DONE)
-7. Diccionarios(IN PROCESS)
+7. Diccionarios(DONE)
 8. Manipulando cadenas(DONE)
 9. Compresiones de listas(IN PROCESS)
-10. Módulos y paquetes
+10. Módulos y paquetes(IN PROCESS)
 11. Leyendo y escribiendo archivos
 12. Módulos adicionales  
 	12.1 SciPy  
