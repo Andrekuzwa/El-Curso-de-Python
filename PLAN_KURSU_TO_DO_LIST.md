@@ -13,7 +13,7 @@
 6. Listas(DONE)
 7. Diccionarios(DONE)
 8. Manipulando cadenas(DONE)
-9. Compresiones de listas(IN PROCESS)
+9. Compresiones de listas(DONE)
 10. Módulos y paquetes(IN PROCESS)
 11. Leyendo y escribiendo archivos
 12. Módulos adicionales  
