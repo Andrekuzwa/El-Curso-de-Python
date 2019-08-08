@@ -15,7 +15,7 @@
 8. Manipulando cadenas(DONE)
 9. Compresiones de listas(DONE)
 10. Módulos y paquetes(IN PROCESS)
-11. Leyendo y escribiendo archivos
+11. Leyendo y escribiendo archivos(IN PROCESS)
 12. Módulos adicionales  
 	12.1 SciPy  
 	12.2 NumPy  

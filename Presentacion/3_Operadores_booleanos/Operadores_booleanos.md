@@ -19,24 +19,25 @@ Pytanie do publicznosci
  
  ![](true_false.png)
 
-**'If' declaracion**  
+**'If' sentencia**  
 Queremos que nuestro programa tome sus propias decisiones, para esta tarea vamos a utilizar declaraciones de control.
 
-if declaracion - este declaracion podemos leerla asi: "Si esta condición es verdadera, ejecute el código de la cláusula."
+if sentencia - esta sentencia podemos leerla asi: "Si esta condición es verdadera, ejecute el código de la cláusula."
 
  ![](if_statement.png)
  
-**else declaracion**  
+**else sentencia**  
 La cláusula 'else' solo se ejecuta cuando la condición de la instrucción 'if' es False.
 
 ![](else.png)  
 
 
-**elif declaracion**    
+**elif sentencia**    
 La instrucción 'elif' es una instrucción que siempre sigue a una instrucción 'if' u otra instrucción 'elif'. Proporciona otra condición que se comprueba solo si alguna de las condiciones anteriores era False.
-![](elif.png)
+![](elif.png)  
+ Poprosić zeby sie pobawili kodem zeby sprobowali napisać cokolwiek  
+Analiza kodu:  
 
-Male zadanie 'przy tablicy' napiszemy kawalek kodu, a ktos bedzie musial narysowac na tablicy schemat blokowy.(taki mały)(albo na odwrót - napisanie kodu na podstawie schematu)
 
 Ejercisios:
 1. Escriba un programa que diga si el número es impar o par.

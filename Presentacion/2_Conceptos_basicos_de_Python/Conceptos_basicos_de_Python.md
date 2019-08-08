@@ -1,11 +1,18 @@
 ﻿1.**Numeros** -  Python soporta dos tipos de números - integrales y numeros de punto flotante. (Tambien soporta números complejos pero por ahora vamos a evitarlos).  
- El intérprete actúa como una calculadora simple: puede escribir una expresión en él y escribirá el valor. 
+ El intérpreter actúa como una calculadora simple: puede escribir una expresión en él y escribirá el valor. 
  
+ ** - exponente   
+ % - modulate  
+ // - division de integrales  
+ / - division de floats  
+ '-' - la resta  
+ '+' - la addicion  
  
 ![](data_types.png)
 
  
-Los números enteros (por ejemplo, 2, 4, 20) tienen tipo int, los que tienen una parte fraccionaria (por ejemplo, 5.0, 1.6) tienen tipo float.
+Los integrales (por ejemplo, 2, 4, 20) tienen tipo int, los que tienen una parte fraccionaria (por ejemplo, 5.0, 1.6) tienen tipo float.
+
 
 
 ![](arythemetical_operators.png)
@@ -23,14 +30,24 @@ micadena = "No te preocupes de los 'apostofres' usando comillas dobles"
 ![](string_indexes.png)
  
 
-tutaj postawowe operacje w interpreterze(word[2:] itd...)
+tutaj postawowe operacje w interpreterze(word[2:] itd...)  
+cadena*5
+ 
 
 
 
 **Almacenar valores en variables**  
  spam = 42   
-Esta declaracion significa que spam almanece numero integrale 42.
- 
+Esta declaracion significa que spam almanece numero integrale 42. Podemos imaginar una variable como una caja. 
+
+(nazwy zmiennych tylko litery i numery)    
+spam SPAM SPam   
+spam23 moze 23spam   nie    
+#spam \spam sp*am
+
+dobra praktyka zeby nazywac zmienne
+
+
 
 ![](variable_box.png)
 
@@ -47,10 +64,13 @@ spam = 'Goodbye'
 
 **Funcion print()**  
 La función print() muestra el valor de cadena dentro de los paréntesis en la pantalla.  
-Cuando Python ejecuta esta línea, se dice que Python está llamando a la función print() y que el valor de cadena se pasa a la función. Un valor que se pasa a una llamada de función es un argumento.
+Cuando Python ejecuta esta línea, se dice que Python está llamando a la función print() y que el valor de cadena se pasa a la función. Un valor que se pasa a una llamada de función es un argumento.  
+
+print z przecinkami, z plusami
+
 
 **Funcion input()**  
-La función input() espera a que el usuario escriba texto en el teclado y pulse ENTER.
+La función input() espera a que el usuario escriba texto en el teclado y pulse ENTER. input() siempre devuelve una cadena!
 
 **Funcion len()**  
 Puede pasar la función len() un valor de cadena (o una variable que contenga una cadena) y la función se evalúa como el valor entero del número de caracteres de esa cadena.  
@@ -58,7 +78,10 @@ Puede pasar la función len() un valor de cadena (o una variable que contenga un
 **Funciones str(),int(),float()**  
 La función str() se puede pasar un valor entero y se evaluará como una versión de valor de cadena de la misma.  
 Las funciones str(), int() y float() se evaluarán como las formas string, integer y floating del valor que pase, respectivamente  
-(tu bardziej prezentacja w intepreterze)
+(tu bardziej prezentacja w intepreterze)(uzyc wszystkiego  
+np print('Nueva frase por ejemplo + variable + str(costam)')
+
+Napisac przykladowy program zeby mieli przyklad do dwoich zadan.
 
 Ejercisios:
 1. Escriba un programa que solicite radio(r) y anote el área(π r^2), el circuito(2πr),el diámetro(2r) de un círculo.
