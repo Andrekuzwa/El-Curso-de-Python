@@ -1,14 +1,19 @@
 ﻿
 
- Esperamos que la barrera del idioma no será un problema. Hemos intentado hacer el curso, en la medida de lo posible, en español y nos disculpamos por todos los errores gramaticos que encuentren. Creemos que la forma más rápida de aprender algo es haciéndolo, así que van a escribir mucho código durante este curso.
+ Esperamos que la barrera del idioma no será un problema. Hemos intentado hacer el curso, en la medida de lo posible, en español y nos disculpamos por todos los errores gramaticos que encuentren. Creemos que la forma más rápida de aprender algo es haciéndolo, así que van a escribir mucho código durante este curso. Después de este curso conoceran los fundamentos de Python y esperamos que vayan a seguir aprendiéndolo dependiendo de los objetivos que quiere conseguir.
+ 
+ También queremos decir que inglés es una habilidad esencial que deben tener los programadores, por tanto nos gustaría animarles a tratar de aprenderlo si tienen el tiempo y la posibilidad de hacer esto. 
+Decimos esto porque los lenguajes de programación, como Python por ejemplo, son escritos en inglés.
  
 Antes de empezar queremos hacer algunas preguntas para organizar mejor el curso. 
 Quién habla inglés? 
+Quien entiende ingles?
 Quién ha programado alguna vez en su vida?
 
 (po slajdzie z pozytywnymi cechami)
-También queremos decir que inglés es una habilidad esencial que deben tener los programadores, por tanto nos gustaría animarles a tratar de aprenderlo si tienen el tiempo y la posibilidad de hacer esto. 
-Decimos esto porque los lenguajes de programación, como Python por ejemplo, son escritos en inglés.
+
+
+
 # Curso de Python  
 Que es python? - Es un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y programación funcional. Es un lenguaje interpretativo, dinámico y multiplataforma.
  
