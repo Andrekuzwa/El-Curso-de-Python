@@ -2,9 +2,9 @@
  El interpreter actúa como una calculadora simple: puede escribir una expresión y escribirá el valor. 
  
  ** - exponente   
- % - modulate  (residuo)
- // - division de enteros 
- / - division de reales  
+ % - modulate  (residuo)  
+ // - division de enteros   
+ / - division de reales    
  '-' - la resta  
  '+' - la adicion  
  
@@ -27,8 +27,8 @@ micadena = "No te preocupes de los 'apostofres' usando comillas dobles"
 
 **Indexación de cadenas**
 
-![](string_indexes.png)
- 
+![](string_indexes.png)  
+ (INDICADORES - indeksy)
 
 tutaj postawowe operacje w interpreterze(word[2:] itd...)  
 cadena*5
