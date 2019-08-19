@@ -26,25 +26,28 @@ Los cuerpos de función pueden contener una o más declaraciones de retorno. Se 
 
 ( tutaj przyklad z numerami parzystymi i nie patrzystymi pokazac ze :  
 -return moze byc uzyty w wielu miejscach  
--ze moze zwracac rozne typy danych
+-ze moze zwracac rozne typy danych  
 -ze konczy dzialanie funkcji
+-jesli nie ma return to zwraca None  
 )
 
 ![](11_Fun.png)
 **Variables local y global**
-1. What to say:
+1. What to say:  
+-zmienne ktore zadeklarowane są w funkcjach są to zmienne lokalne, wszystkie zadeklarowane poza nimi są funkcjami globalnymi  
+-nie mozna odwolywac sie do zmiennych lokalnych w sferze(alcance) globalnej    
+-funkcje mogą się odwoływać do zmiennych lokalnych
 
-Se dice que los parámetros y variables que se asignan en una función llamada existen en el variable local de esa función. Se dice que las variables que se asignan fuera de todas las funciones existen en el variable global. Una variable que existe en un variable local se denomina variable local, mientras que una variable que existe en el variable global se denomina variable global. Una variable debe ser una u otra. No puede ser tanto local como global.
 
-Las variables locales no se pueden utilizar en el variables global
+Las variables locales no se pueden utilizar en el alcance global
 
 ![](6_Fun.png)
 
-Los variables locales no pueden usar variables en otros variables locales
+Los variables locales no pueden usar variables en otros alcances locales
 
 ![](7_Fun.png)
 
-Las variables globales se pueden leer desde un variables locales
+Las variables globales se pueden leer desde un alcances locales
 
 ![](8_Fun.png)
 
