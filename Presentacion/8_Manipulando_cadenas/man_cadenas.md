@@ -81,6 +81,11 @@ Que tal?
 Todo bien?''''  
 spam.split('\n')  
 
+
+**strip(), rstrip(), lstrip()**  
+Para quitar los espacios en blanco de una cadena podemos utilizar la funcion strip().
+
+
 Ejercicios
 1. Escriba una función que tome una cadena (una frase) como argumento y devuelva una cadena de una frase en la que las palabras se separan con un '_'(guion bajo).
 2. Escriba un programa que convierta una cadena ,como esta(imagen), en una lista de números flotantes y escriba una suma, promedio, valor máximo y mínimo de los números de la lista.

@@ -1,51 +1,53 @@
-﻿**Functiones**
+﻿##### **Functiones**
 
 Ya estamos familiarizados con las funciones print(), input() y len() de los capítulos anteriores. Python proporciona varias funciones integradas, pero también puede escribir sus propias funciones. Una función es como un pequeño programa dentro de un programa.
 
 Para crear la función usamos la instrucción "def"
 
-![](1_Fun.png)
 
 ![](2_Fun.png)
 
 ![](3_Fun.png)
 
-El código en una función se ejecuta cuando se llama a la función, no cuando se define la función.
+1. El código de una función se ejecuta cuando se llama a la función, no cuando se defina la función.
+2. Un propósito principal de las funciones es agrupar código que se ejecuta varias veces.
 
-Un propósito principal de las funciones es agrupar código que se ejecuta varias veces. Sin una función desafiada, tendría que copiar y pegar este código cada vez
-
-La desduplicación hace que sus programas sean más cortos, fáciles de leer y más fáciles de actualizar.
-
-**Declaración de "Return" (retorno)**
-
-Los cuerpos de función pueden contener una o más declaraciones de retorno. Se pueden ubicar en cualquier parte del cuerpo de la función. Una declaración return finaliza la ejecución de la llamada a la función y "devuelve" el resultado, es decir, el valor de la expresión que sigue a la palabra clave return. Si la sentencia return no tiene una expresión, se devuelve el valor especial None.
-
-![](11_Fun.png)
-
-**Declaraciones "def" con parámetros**
-
-También puede desafiar sus propias funciones que aceptan argumentos
+**Declaraciones "def" con parámetros**  
+También se puede definir sus propias funciones que aceptan argumentos.
 
 ![](4_Fun.png)
 
 ![](5_Fun.png)
 
-La desafiación de la función "hola()" en este programa tiene un parámetro llamado "name". Un parámetro es una variable en la que se almacena un argumento cuando se llama a una función. El puño vez que se llama a la función "hola()", es con el argumento 'Michał'. La ejecución del programa entra en la función y la variable "name" se establece automáticamente en 'Michał', que es lo que se imprime mediante la instrucción print(). 
-Los parámetros son que el valor almacenado en un parámetro se olvida cuando se devuelve la función.
 
+**Sentencia de "Return" (retorno)**
+
+Los cuerpos de función pueden contener una o más declaraciones de retorno. Se pueden ubicar en cualquier parte del cuerpo de la función. Una declaración return finaliza la ejecución de la llamada a la función y "devuelve" el resultado, es decir, el valor de la expresión que sigue a la palabra clave return. Si la sentencia return no tiene una expresión, se devuelve el valor especial None.
+
+( tutaj przyklad z numerami parzystymi i nie patrzystymi pokazac ze :  
+-return moze byc uzyty w wielu miejscach  
+-ze moze zwracac rozne typy danych  
+-ze konczy dzialanie funkcji
+-jesli nie ma return to zwraca None  
+)
+
+![](11_Fun.png)
 **Variables local y global**
+1. What to say:  
+-zmienne ktore zadeklarowane są w funkcjach są to zmienne lokalne, wszystkie zadeklarowane poza nimi są funkcjami globalnymi  
+-nie mozna odwolywac sie do zmiennych lokalnych w sferze(alcance) globalnej    
+-funkcje mogą się odwoływać do zmiennych lokalnych
 
-Se dice que los parámetros y variables que se asignan en una función llamada existen en el variable local de esa función. Se dice que las variables que se asignan fuera de todas las funciones existen en el variable global. Una variable que existe en un variable local se denomina variable local, mientras que una variable que existe en el variable global se denomina variable global. Una variable debe ser una u otra. No puede ser tanto local como global.
 
-Las variables locales no se pueden utilizar en el variables global
+Las variables locales no se pueden utilizar en el alcance global
 
 ![](6_Fun.png)
 
-Los variables locales no pueden usar variables en otros variables locales
+Los variables locales no pueden usar variables en otros alcances locales
 
 ![](7_Fun.png)
 
-Las variables globales se pueden leer desde un variables locales
+Las variables globales se pueden leer desde un alcances locales
 
 ![](8_Fun.png)
 
