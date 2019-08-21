@@ -1,4 +1,4 @@
-﻿**Functiones**
+﻿##### **Functiones**
 
 Ya estamos familiarizados con las funciones print(), input() y len() de los capítulos anteriores. Python proporciona varias funciones integradas, pero también puede escribir sus propias funciones. Una función es como un pequeño programa dentro de un programa.
 

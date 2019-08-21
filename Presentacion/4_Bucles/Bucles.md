@@ -25,7 +25,7 @@ Ejercicios:
 El bucle 'While' itera hasta que la condición del bucle es True, pero si queremos ejecutar un bloque de código un determinado numero de veces, es mejor usar el bucle 'for'.  
 La instrucción 'for' de Python corre la iteración los elementos de cualquier secuencia (una cadena o una lista), en el orden en que aparecen en la secuencia.
 
-Para empezar trabajando con bucle 'for' tenemos que conocer la function 'range()'. Si se necesita iterar sobre una secuencia de números, es apropiado utilizar la función integrada range(), la cual genera
+Para empezar a trabajar con el bucle 'for' tenemos que conocer la function 'range()'. Si se necesita iterar sobre una secuencia de números, es apropiado utilizar la función integrada range(), la cual genera
 progresiones aritméticas.
 
 (tu pokazac w interpreterze)
@@ -39,9 +39,11 @@ for letra in 'palabra':
 Podemos usar bucles dentro de bucles. Por ejemplo:  
 plik.py przygotowany
 
+TU TEZ MOZEMY UZYC BREAK I CONTINNUE
+
 DO CWICZENIA DRUGIEGO POKAZAC print(end="")!!!!!!
 Ejercicios:
-1. Escriba un programa que solicite un número y luego imprima esta cantidad de números usando un bucle 'for', luego escriba un programa equivalente usando el bucle 'while'.
+1. Escriba un programa que solicite un número y luego imprima esta cantidad de números usando un bucle 'for', luego escriba un programa igual usando el bucle 'while'.
 2. Escriba un programa Python para construir el siguiente patrón, utilizando un bucle en un bucle.
 ![](ex2.png)  
 ( tu przypomniec o print() i print(end=''))
