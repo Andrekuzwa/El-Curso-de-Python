@@ -10,7 +10,7 @@ Para crear la función usamos la instrucción "def"
 
 ![](3_Fun.png)
 
-The code in a function executes when the function is called, not when the function is defied.
+El código en una función se ejecuta cuando se llama a la función, no cuando se define la función.
 
 Un propósito principal de las funciones es agrupar código que se ejecuta varias veces. Sin una función desafiada, tendría que copiar y pegar este código cada vez
 

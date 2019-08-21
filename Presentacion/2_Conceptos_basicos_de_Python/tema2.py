@@ -11,4 +11,3 @@ print("Datos de circulo:\n area: " +str(3.14*int(r)**2) + "\n circuito: " + str(
 # nacionalidad = input('Nacionalidad:')
 #
 # print("Me llamo " + nombre + ' ' + apellidos + ' '  + 'y tengo ' + str(2019-ano) + ' anos y soy de '  + nacionalidad + '.')
-
