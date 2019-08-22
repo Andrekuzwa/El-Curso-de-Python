@@ -52,6 +52,10 @@ truncate() - elimina el texto del puntero al final
 Es una buena práctica cerrar archivos después de trabajar con ellos usando close() funcion.
 
 Ejercicios:
+1. Escriba un programa Python para leer un archivo de texto completo.
+2. Escriba un programa Python para leer las primeras 'n' líneas de un archivo.
+3. Genera un archivo con 120 notas aleatorias entre 0-100, una en cada línea.
+4. Escriba un programa que cuente notas de un archivo de ejercicio 3 que estén entre 0-50, 51-69 y 70-100 y escriba un número de ellas en otro archivo.
 
 
 
