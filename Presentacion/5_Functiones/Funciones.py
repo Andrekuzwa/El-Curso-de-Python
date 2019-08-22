@@ -1,4 +1,34 @@
-# La secuencia de Collatz
+"""mi_primera_funcion"""
+"""Escriba la función llamada "mi primera funcion" que imprime bienvenida, y desea un buen día."""
+
+# def mi_primera_funcion():
+#     print("Hi! \nDisfruta tu dia!")
+#
+# mi_primera_funcion()
+
+"""mi_primera_funcion_con_argumento"""
+"""Ingrese la función llamada "my first function_con_argumento" que tiene el nombre como argumento. 
+Imprime un saludo con esta persona."""
+
+# def mi_primera_funcion_con_argumento(nombre):
+#     print("Hola " + nombre + "!")
+#     print("Disfruta tu dia!")
+#
+# mi_primera_funcion_con_argumento("Alvin")
+# mi_primera_funcion_con_argumento("Andre")
+# mi_primera_funcion_con_argumento("Ryszard")
+
+"""area_del_circulo"""
+"""Cree la función que calcula el área del círculo pasando el radio como argumento e imprime el resultado. 
+El parámetro debe proporcionarse como entrada (input)"""
+
+# def area_del_circulo(radio):
+#     print(str(3.142 * radio * radio))
+#
+# area_del_circulo(int(input("Introduzca el número \n:")))
+
+
+"""La secuencia de Collatz """
 # def collatz(numero):
 #     print(str(numero))
 #     while numero != 1:
@@ -38,8 +68,3 @@
 # carta('Alden', '85')
 # carta('Leon', '74')
 # carta('George', '55')
-
-
-
-
-
