@@ -2,6 +2,8 @@
 
 Ya estamos familiarizados con las funciones print(), input() y len() de los capítulos anteriores. Python proporciona varias funciones integradas, pero también puede escribir sus propias funciones. Una función es como un pequeño programa dentro de un programa.
 
+Un propósito principal de las funciones es agrupar código que se ejecuta varias veces.
+
 Para crear la función usamos la instrucción "def"
 
 

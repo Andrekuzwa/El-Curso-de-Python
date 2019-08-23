@@ -1,6 +1,6 @@
 ﻿**Listas**  
 Una lista es un valor que contiene varios valores en una secuencia ordenada.  
-Indexamos listas al igual que las cadenas
+Indexamos listas al igual que las cadenas  
 ![](index_lista.png)
 zabawa w interpreterze  
 [1,2,3]  
@@ -11,15 +11,15 @@ spam = [['gato','perro'],[2,4,6,8]]
 spam = ['pan','huevo','agua','patata']
 
 Podemos obtener varios valores de la lista como eso.  
-spam[0:4]  
+spam[0:4]   
 spam[1:3]  
 spam[0:-1]  
 spam[:2]  
 spam[1:]
 
 Podemos cambiar valores de la lista como eso:  
-spam[1] = 'algo'
-spam[2] = spam[1]
+spam[1] = 'algo'  
+spam[2] = spam[1]  
 
 Para eliminar valores de la lista podemos usar 'del' sentencia. Todos los valores de la lista después del valor eliminado se moverán hacia arriba un índice.
 
@@ -78,7 +78,7 @@ Las listas de valores numéricos o listas de cadenas se pueden ordenar con el m�
 spam = [2,1,-7,3.14,-2]  
 spam.sort()  
 
-También puede pasar True para que el argumento de palabra clave inversa ordene los valores en orden inverso.  
+También se puede pasar True para que el argumento de palabra clave inversa ordene los valores en orden inverso.  
 
 spam.sort(reverse=True)
 
