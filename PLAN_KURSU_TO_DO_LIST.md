@@ -14,18 +14,10 @@
 7. Diccionarios(DONE)
 8. Manipulando cadenas(DONE)
 9. Compresiones de listas(DONE)
-<<<<<<< HEAD
-10. Módulos y paquetes(IN PROCESS)
-11. Leyendo y escribiendo archivos(DONE)
-12. Módulos adicionales  
-	12.1 SciPy  
-=======
 10. Módulos y paquetes(DONE)
 11. Leyendo y escribiendo archivos(IN PROCESS)
 12. Módulos adicionales (IN PROCESS) 
-
     12.1 SciPy  
->>>>>>> d5d7b120d3a6e8cf147c45f75e80c56c0882c5b8
 	12.2 NumPy  
 	12.3 Matplotlib  
 13. Primer proyecto con Python
