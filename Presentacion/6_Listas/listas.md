@@ -1,9 +1,9 @@
 ﻿**Listas**  
 Una lista es un valor que contiene varios valores en una secuencia ordenada.  
 Indexamos listas al igual que las cadenas  
-![](index_lista.png)
+![](index_lista.png)  
 zabawa w interpreterze  
-[1,2,3]  
+spam = [1,2,3]  
 ['pan','agua','jamon']  
 ['hola', 4, True, 'jajaja', 12]  
 spam = [['gato','perro'],[2,4,6,8]]  
